@@ -4,7 +4,7 @@
 |22-04-23|Emmy The Great|London|Shoreditch Town Hall|
 |26-04-23|Aldous Harding|Norwich|The Waterfront|
 |27-04-23|Bill Ryder-Jones|London|Hoxton Hall|
-|28-04-23|_Bas Jan_|London|St. Mary's Music Hall|
+|_28-04-23|Bas Jan|London|St. Mary's Music Hall_|
 |28-04-23|Caitlin Rose|London|EartH|
 |28-04-23|Flaming Lips|London|Hammersmith Apollo|
 |29-04-23|Gaz Coombes|London|Electric Ballroom|
