@@ -1,5 +1,5 @@
 |Date|Event|City|Venue|Ticket|
-|----|-----|----|-----|------|
+|----|-----|----|-----|:----:|
 |07-04-23|Sleeper|Huddersfield|The Parish|X|
 |22-04-23|Emmy The Great|London|Shoreditch Town Hall|X|
 |26-04-23|Aldous Harding|Norwich|The Waterfront|X|
