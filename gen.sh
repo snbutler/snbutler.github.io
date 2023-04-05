@@ -1,1 +1,2 @@
-pandoc --css=style.css -s -f markdown+smart --toc --metadata pagetitle=gigsgigsgigs --to=html5 gigs.md -o index.html
+pandoc --css=style.css -s -f markdown --toc --metadata pagetitle=gigsgigsgigs --to=html5 gigs.md -o index.html
+#markdown+smart
