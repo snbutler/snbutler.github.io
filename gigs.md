@@ -9,11 +9,12 @@
 |28-04-23|Flaming Lips|London|Hammersmith Apollo|
 |29-04-23|Gaz Coombes|London|Electric Ballroom|
 |03-05-23|Black Country New Road|Leeds|Irish Centre|X|
-|03-05-23|Teleman|London|Koko|
+|03-05-23|Teleman|London|KOKO|
 |05-05-23|Yard Act|London|Troxy|
 |07-05-23|Jeffrey Lewis & The Voltage|London|Oslo|X|
 |12-05-23|Yard Act|Leeds|Brudenell|X|
 |19-05-23|Cate Le Bon|London|Southbank Centre|X|
+|23-05-23|Four Tet|London|Alexandra Palace||
 |24-05-23|Alvvays|London|Kentish Town Forum|
 |25-05-23|The Beths|London|Electric Brixton|
 |29-05-23|Moldy Peaches|London|Roundhouse|X|
@@ -25,10 +26,11 @@
 |15-07-23|Pulp|Sheffield|Arena|X|
 |20-07-23|Max Richter|Chester|Jodrell Bank|
 |25-08-23|All Points East|London|Victoria Park|
-|29-08-23|The Walkmen|London|Koko|
+|29-08-23|The Walkmen|London|KOKO|
 |23-09-23|The National|Leeds|Arena|X|
 |17-10-23|Blood Red Shoes|London|The 100 Club|
 |24-10-23|The Bluetones|London|KOKO|
 |28-10-23|Allo Darlin|London|Islington Assembly Hall|X|
+|23-11-23|This Is The Kit|Leeds|Irish Centre|
 |25-11-23|This Is The Kit|London|Barbican|
 |15-12-23|Suede|London|Brixton Academy|
