@@ -21,7 +21,7 @@
 |31-05-23|The Big Moon|London|Roundhouse|
 |02-06-23|Arctic Monkeys|Manchester|Old Trafford|X|
 |05-06-23|Le Tigre|Manchester|Albert Hall|
-|10-05-23|Long Division|Wakefield|Various|X|
+|10-06-23|Long Division|Wakefield|Various|X|
 |08-07-23|Blur|London|Wembley Stadium|
 |15-07-23|Pulp|Sheffield|Arena|X|
 |20-07-23|Max Richter|Chester|Jodrell Bank|

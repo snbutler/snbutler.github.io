@@ -1,7 +1,12 @@
-table
+body
 {
     font-family: sans-serif;
+}
+table
+{
     border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
 }
 table, td, th
 {
@@ -13,11 +18,11 @@ thead
 }
 td, th
 {
-    padding: 0.5em;
+    padding: 0.75em;
 }
 tr.header
 {
-    background-color: steelblue;
+    background-color: lightgreen;
 }
 tr.even
 {
