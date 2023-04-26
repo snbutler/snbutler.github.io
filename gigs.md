@@ -21,7 +21,7 @@
 |08 07 23|Blur|London|Wembley Stadium|
 |15 07 23|Pulp|Sheffield|Arena|X|
 |20 07 23|Max Richter|Chester|Jodrell Bank|
-|08 08 23|Blur|Lokeren|Grote Kai|X|
+|08 08 23|Blur|Lokeren|Grote Kaai|X|
 |25 08 23|All Points East|London|Victoria Park|
 |29 08 23|The Walkmen|London|KOKO|
 |30 08 23|The Walkmen|London|KOKO|
