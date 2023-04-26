@@ -1,14 +1,9 @@
 # gigs
 |Date|Event|Place|Venue|Ticket|
 |:--:|-----|----|-----|:----:|
-|07 04 23|Sleeper|Huddersfield|The Parish|X|
-|22 04 23|Emmy The Great|London|Shoreditch Town Hall|X|
-|26 04 23|Aldous Harding|Norwich|The Waterfront|X|
 |27 04 23|Bill Ryder-Jones|London|Hoxton Hall|X|
-|28 04 23|Bas Jan|London|St. Mary's Music Hall|
-|28 04 23|Caitlin Rose|London|EartH|
-|28 04 23|Flaming Lips|London|Hammersmith Apollo|
-|29 04 23|Gaz Coombes|London|Electric Ballroom|
+|28 04 23|Aldous Harding|London|Barbican|X|
+|29 04 23|Caitlin Rose|London|Third Man Records|X|
 |03 05 23|Black Country New Road|Leeds|Irish Centre|X|
 |03 05 23|Teleman|London|KOKO|
 |05 05 23|Yard Act|London|Troxy|
@@ -25,12 +20,16 @@
 |08 07 23|Blur|London|Wembley Stadium|
 |15 07 23|Pulp|Sheffield|Arena|X|
 |20 07 23|Max Richter|Chester|Jodrell Bank|
+|08 08 23|Blur|Lokeren|Grote Kai|X|
 |25 08 23|All Points East|London|Victoria Park|
 |29 08 23|The Walkmen|London|KOKO|
+|30 08 23|The Walkmen|London|KOKO|
+|31 08 23|The Walkmen|London|KOKO|
 |23 09 23|The National|Leeds|Arena|X|
 |17 10 23|Blood Red Shoes|London|The 100 Club|
 |24 10 23|The Bluetones|London|KOKO|
 |28 10 23|Allo Darlin|London|Islington Assembly Hall|X|
+|10 11 23|Sleater Kinney|London|Roundhouse|
 |23 11 23|This Is The Kit|Leeds|Irish Centre|
 |25 11 23|This Is The Kit|London|Barbican|
 |15 12 23|Suede|London|Brixton Academy|
