@@ -10,6 +10,7 @@
 |07 05 23|Jeffrey Lewis & The Voltage|London|Oslo|X|
 |12 05 23|Yard Act|Leeds|Brudenell|X|
 |19 05 23|Cate Le Bon|London|Southbank Centre|X|
+|21 05 23|Blur|Eastbourne|Winter Gardens|X|
 |23 05 23|Four Tet|London|Alexandra Palace||
 |24 05 23|Alvvays|London|Kentish Town Forum|
 |25 05 23|The Beths|London|Electric Brixton|
