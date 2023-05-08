@@ -1,13 +1,6 @@
 # gigs
 |Date|Event|Place|Venue|Ticket|
 |:--:|-----|----|-----|:----:|
-|27 04 23|Bill Ryder-Jones|London|Hoxton Hall|X|
-|28 04 23|Aldous Harding|London|Barbican|X|
-|29 04 23|Caitlin Rose|London|Third Man Records|X|
-|03 05 23|Black Country New Road|Leeds|Irish Centre|X|
-|03 05 23|Teleman|London|KOKO|
-|05 05 23|Yard Act|London|Troxy|
-|07 05 23|Jeffrey Lewis & The Voltage|London|Oslo|X|
 |12 05 23|Yard Act|Leeds|Brudenell|X|
 |19 05 23|Cate Le Bon|London|Southbank Centre|X|
 |21 05 23|Blur|Eastbourne|Winter Gardens|X|
@@ -27,6 +20,8 @@
 |30 08 23|The Walkmen|London|KOKO|
 |31 08 23|The Walkmen|London|KOKO|
 |23 09 23|The National|Leeds|Arena|X|
+|28 09 23|Do Nothing|Leeds|Brudenell|
+|06 10 23|Do Nothing|London|KOKO|
 |17 10 23|Blood Red Shoes|London|The 100 Club|
 |24 10 23|The Bluetones|London|KOKO|
 |28 10 23|Allo Darlin|London|Islington Assembly Hall|X|
