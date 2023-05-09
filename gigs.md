@@ -6,11 +6,12 @@
 |21 05 23|Blur|Eastbourne|Winter Gardens|X|
 |23 05 23|Four Tet|London|Alexandra Palace||
 |24 05 23|Alvvays|London|Kentish Town Forum|
-|25 05 23|The Beths|London|Electric Brixton|
+|25 05 23|The Beths|London|Electric Brixton|X|
 |31 05 23|The Big Moon|London|Roundhouse|
 |02 06 23|Arctic Monkeys|Manchester|Old Trafford|X|
 |05 06 23|Le Tigre|Manchester|Albert Hall|
 |10 06 23|Long Division|Wakefield|Various|X|
+|14 06 23|Kimya Dawson|London|Rio||
 |08 07 23|Blur|London|Wembley Stadium|
 |15 07 23|Pulp|Sheffield|Arena|X|
 |20 07 23|Max Richter|Chester|Jodrell Bank|
