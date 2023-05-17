@@ -6,6 +6,7 @@
 |23 05 23|Four Tet|London|Alexandra Palace||
 |24 05 23|Alvvays|London|Kentish Town Forum|
 |25 05 23|The Beths|London|Electric Brixton|X|
+|27 05 23|The Chats|London|Roundhouse||
 |31 05 23|The Big Moon|London|Roundhouse|
 |02 06 23|Arctic Monkeys|Manchester|Old Trafford|X|
 |05 06 23|Le Tigre|Manchester|Albert Hall|
