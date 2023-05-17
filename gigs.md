@@ -1,7 +1,6 @@
 # gigs
 |Date|Event|Place|Venue|Ticket|
 |:--:|-----|----|-----|:----:|
-|12 05 23|Yard Act|Leeds|Brudenell|X|
 |19 05 23|Cate Le Bon|London|Southbank Centre|X|
 |21 05 23|Blur|Eastbourne|Winter Gardens|X|
 |23 05 23|Four Tet|London|Alexandra Palace||
@@ -23,10 +22,15 @@
 |23 09 23|The National|Leeds|Arena|X|
 |28 09 23|Do Nothing|Leeds|Brudenell|
 |06 10 23|Do Nothing|London|KOKO|
+|10 10 23|Black Country New Road|London|Shepherd's Bush Empire|
+|11 10 23|Black Country New Road|London|Shepherd's Bush Empire|
 |17 10 23|Blood Red Shoes|London|The 100 Club|
 |24 10 23|The Bluetones|London|KOKO|
 |28 10 23|Allo Darlin|London|Islington Assembly Hall|X|
 |10 11 23|Sleater Kinney|London|Roundhouse|
+|17 11 23|Teenage Fanclub + Sweet Baboo|Lodnon|EartH|
+|18 11 23|Teenage Fanclub + Sweet Baboo|Lodnon|EartH|
 |23 11 23|This Is The Kit|Leeds|Irish Centre|
 |25 11 23|This Is The Kit|London|Barbican|
+|03 12 23|Girl Ray|London|Village Underground|
 |15 12 23|Suede|London|Brixton Academy|
