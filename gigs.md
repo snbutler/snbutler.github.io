@@ -1,22 +1,18 @@
 # gigs
 |Date|Event|Place|Venue|Ticket|
 |:--:|-----|----|-----|:----:|
-|19 05 23|Cate Le Bon|London|Southbank Centre|X|
-|21 05 23|Blur|Eastbourne|Winter Gardens|X|
-|23 05 23|Four Tet|London|Alexandra Palace||
-|24 05 23|Alvvays|London|Kentish Town Forum|
-|25 05 23|The Beths|London|Electric Brixton|X|
-|27 05 23|The Chats|London|Roundhouse||
 |31 05 23|The Big Moon|London|Roundhouse|
 |02 06 23|Arctic Monkeys|Manchester|Old Trafford|X|
 |05 06 23|Le Tigre|Manchester|Albert Hall|
 |10 06 23|Long Division|Wakefield|Various|X|
 |14 06 23|Kimya Dawson|London|Rio||
+|04 07 23|Do Nothing|London|Rough Trade East|
 |08 07 23|Blur|London|Wembley Stadium|
 |15 07 23|Pulp|Sheffield|Arena|X|
 |20 07 23|Max Richter|Chester|Jodrell Bank|
 |08 08 23|Blur|Lokeren|Grote Kaai|X|
 |25 08 23|All Points East|London|Victoria Park|
+|25 08 23|Cable Ties|London|Victoria|
 |29 08 23|The Walkmen|London|KOKO|
 |30 08 23|The Walkmen|London|KOKO|
 |31 08 23|The Walkmen|London|KOKO|
@@ -33,5 +29,6 @@
 |18 11 23|Teenage Fanclub + Sweet Baboo|Lodnon|EartH|
 |23 11 23|This Is The Kit|Leeds|Irish Centre|
 |25 11 23|This Is The Kit|London|Barbican|
+|30 11 23|Death From Above 1979|London|Garage|X|
 |03 12 23|Girl Ray|London|Village Underground|
 |15 12 23|Suede|London|Brixton Academy|
