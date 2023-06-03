@@ -1,8 +1,6 @@
 # gigs
 |Date|Event|Place|Venue|Ticket|
 |:--:|-----|----|-----|:----:|
-|31 05 23|The Big Moon|London|Roundhouse|
-|02 06 23|Arctic Monkeys|Manchester|Old Trafford|X|
 |05 06 23|Le Tigre|Manchester|Albert Hall|
 |10 06 23|Long Division|Wakefield|Various|X|
 |14 06 23|Kimya Dawson|London|Rio||
@@ -10,12 +8,14 @@
 |08 07 23|Blur|London|Wembley Stadium|
 |15 07 23|Pulp|Sheffield|Arena|X|
 |20 07 23|Max Richter|Chester|Jodrell Bank|
+|29 07 23|Pulp|London|Hammersmith Apollo|X|
 |08 08 23|Blur|Lokeren|Grote Kaai|X|
 |25 08 23|All Points East|London|Victoria Park|
 |25 08 23|Cable Ties|London|Victoria|
 |29 08 23|The Walkmen|London|KOKO|
 |30 08 23|The Walkmen|London|KOKO|
 |31 08 23|The Walkmen|London|KOKO|
+|06 09 23|Bodega|London|Rich Mix|
 |23 09 23|The National|Leeds|Arena|X|
 |28 09 23|Do Nothing|Leeds|Brudenell|
 |06 10 23|Do Nothing|London|KOKO|
