@@ -8,6 +8,7 @@
 |08 07 23|Blur|London|Wembley Stadium|
 |15 07 23|Pulp|Sheffield|Arena|X|
 |20 07 23|Max Richter|Chester|Jodrell Bank|
+|22 07 23|Gwenno|London|Southbank Centre|
 |29 07 23|Pulp|London|Hammersmith Apollo|X|
 |08 08 23|Blur|Lokeren|Grote Kaai|X|
 |25 08 23|All Points East|London|Victoria Park|
@@ -24,9 +25,10 @@
 |17 10 23|Blood Red Shoes|London|The 100 Club|
 |24 10 23|The Bluetones|London|KOKO|
 |28 10 23|Allo Darlin|London|Islington Assembly Hall|X|
+|03 11 23|Personal Trainer|London|Garage||
 |10 11 23|Sleater Kinney|London|Roundhouse|
-|17 11 23|Teenage Fanclub + Sweet Baboo|Lodnon|EartH|
-|18 11 23|Teenage Fanclub + Sweet Baboo|Lodnon|EartH|
+|17 11 23|Teenage Fanclub + Sweet Baboo|London|EartH|
+|18 11 23|Teenage Fanclub + Sweet Baboo|London|EartH|
 |23 11 23|This Is The Kit|Leeds|Irish Centre|
 |25 11 23|This Is The Kit|London|Barbican|
 |30 11 23|Death From Above 1979|London|Garage|X|
