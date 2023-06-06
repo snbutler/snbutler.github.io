@@ -17,6 +17,7 @@
 |30 08 23|The Walkmen|London|KOKO|
 |31 08 23|The Walkmen|London|KOKO|
 |06 09 23|Bodega|London|Rich Mix|
+|20 09 23|Margaret Glaspy|London|O'Meara|
 |23 09 23|The National|Leeds|Arena|X|
 |28 09 23|Do Nothing|Leeds|Brudenell|
 |06 10 23|Do Nothing|London|KOKO|
