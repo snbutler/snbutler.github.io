@@ -1,7 +1,6 @@
 # gigs
 |Date|Event|Place|Venue|Ticket|
 |:--:|-----|----|-----|:----:|
-|05 06 23|Le Tigre|Manchester|Albert Hall|
 |10 06 23|Long Division|Wakefield|Various|X|
 |14 06 23|Kimya Dawson|London|Rio||
 |04 07 23|Do Nothing|London|Rough Trade East|
