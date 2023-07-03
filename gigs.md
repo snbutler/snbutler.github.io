@@ -1,10 +1,7 @@
 # gigs
 |Date|Event|Place|Venue|Ticket|
 |:--:|-----|----|-----|:----:|
-|10 06 23|Long Division|Wakefield|Various|X|
-|14 06 23|Kimya Dawson|London|Rio||
-|04 07 23|Do Nothing|London|Rough Trade East|
-|08 07 23|Blur|London|Wembley Stadium|
+|04 07 23|Do Nothing|London|Rough Trade East|X|
 |15 07 23|Pulp|Sheffield|Arena|X|
 |20 07 23|Max Richter|Chester|Jodrell Bank|
 |22 07 23|Gwenno|London|Southbank Centre|
@@ -15,6 +12,7 @@
 |29 08 23|The Walkmen|London|KOKO|
 |30 08 23|The Walkmen|London|KOKO|
 |31 08 23|The Walkmen|London|KOKO|
+|05 09 23|Caitlin Rose|London|Brixton Windmill|
 |06 09 23|Bodega|London|Rich Mix|
 |06 09 23|Marika Hackman|London|ICA|X|
 |20 09 23|Margaret Glaspy|London|O'Meara|
@@ -32,6 +30,7 @@
 |10 11 23|Sleater Kinney|London|Roundhouse|
 |17 11 23|Teenage Fanclub + Sweet Baboo|London|EartH|
 |18 11 23|Teenage Fanclub + Sweet Baboo|London|EartH|
+|22 11 23|Divorce|London|The Social|
 |23 11 23|This Is The Kit|Leeds|Irish Centre|
 |25 11 23|This Is The Kit|London|Barbican|
 |30 11 23|Death From Above 1979|London|Garage|X|
