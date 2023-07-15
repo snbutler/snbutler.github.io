@@ -2,7 +2,7 @@
 |Date|Event|Place|Venue|Ticket|
 |:--:|-----|----|-----|:----:|
 |15 07 23|Pulp|Sheffield|Arena|X|
-|22 07 23|Gwenno|London|Southbank Centre|
+|22 07 23|Gwenno|London|Southbank Centre|X|
 |27 07 23|Thank|London|George Tavern|
 |29 07 23|Pulp|London|Hammersmith Apollo|X|
 |08 08 23|Blur|Lokeren|Grote Kaai|X|
@@ -14,14 +14,14 @@
 |05 09 23|Caitlin Rose|London|Brixton Windmill|
 |06 09 23|Bodega|London|Rich Mix|
 |06 09 23|Marika Hackman|London|ICA|X|
-|20 09 23|Margaret Glaspy|London|O'Meara|
+|20 09 23|Margaret Glaspy|London|O'Meara|X|
 |23 09 23|The National|Leeds|Arena|X|
 |28 09 23|Do Nothing|Leeds|Brudenell|
 |29 09 23|PJ Harvey|London|Roundhouse|
 |06 10 23|Do Nothing|London|KOKO|
 |10 10 23|Black Country New Road|London|Shepherd's Bush Empire|
 |11 10 23|Black Country New Road|London|Shepherd's Bush Empire|
-|11 10 23|Honeyblood|London|The Social|
+|12 10 23|Honeyblood|London|The Social|
 |17 10 23|Blood Red Shoes|London|The 100 Club|
 |24 10 23|The Bluetones|London|KOKO|
 |28 10 23|Allo Darlin|London|Islington Assembly Hall|X|
