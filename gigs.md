@@ -1,9 +1,7 @@
 # gigs
 |Date|Event|Place|Venue|Ticket|
 |:--:|-----|----|-----|:----:|
-|15 07 23|Pulp|Sheffield|Arena|X|
-|22 07 23|Gwenno|London|Southbank Centre|X|
-|27 07 23|Thank|London|George Tavern|
+|27 07 23|Thank|London|George Tavern|X|
 |29 07 23|Pulp|London|Hammersmith Apollo|X|
 |08 08 23|Blur|Lokeren|Grote Kaai|X|
 |25 08 23|All Points East|London|Victoria Park|
@@ -28,6 +26,7 @@
 |03 11 23|Personal Trainer|London|Garage||
 |09 11 23|King Creosote|London|EartH|X|
 |10 11 23|Sleater Kinney|London|Roundhouse|
+|15 11 23|Queens of the Stone Age|London|O2|X|
 |17 11 23|Teenage Fanclub + Sweet Baboo|London|EartH|
 |18 11 23|Teenage Fanclub + Sweet Baboo|London|EartH|
 |22 11 23|Divorce|London|The Social|
