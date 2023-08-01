@@ -1,8 +1,7 @@
 # gigs
 |Date|Event|Place|Venue|Ticket|
 |:--:|-----|----|-----|:----:|
-|27 07 23|Thank|London|George Tavern|X|
-|29 07 23|Pulp|London|Hammersmith Apollo|X|
+|04 08 23|Girl Ray|London|Rough Trade East|X|
 |08 08 23|Blur|Lokeren|Grote Kaai|X|
 |25 08 23|All Points East|London|Victoria Park|
 |25 08 23|Cable Ties|London|Victoria|
