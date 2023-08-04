@@ -8,7 +8,7 @@
 |29 08 23|The Walkmen|London|KOKO|
 |30 08 23|The Walkmen|London|KOKO|
 |31 08 23|The Walkmen|London|KOKO|
-|05 09 23|Caitlin Rose|London|Brixton Windmill|
+|05 09 23|Caitlin Rose|London|Brixton Windmill|X|
 |06 09 23|Bodega|London|Rich Mix|
 |06 09 23|Marika Hackman|London|ICA|X|
 |20 09 23|Margaret Glaspy|London|O'Meara|X|
