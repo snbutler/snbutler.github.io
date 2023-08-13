@@ -1,8 +1,6 @@
 # gigs
 |Date|Event|Place|Venue|Ticket|
 |:--:|-----|----|-----|:----:|
-|04 08 23|Girl Ray|London|Rough Trade East|X|
-|08 08 23|Blur|Lokeren|Grote Kaai|X|
 |25 08 23|All Points East|London|Victoria Park|
 |25 08 23|Cable Ties|London|Victoria|
 |29 08 23|The Walkmen|London|KOKO|
@@ -30,6 +28,7 @@
 |18 11 23|Teenage Fanclub + Sweet Baboo|London|EartH|
 |22 11 23|Divorce|London|The Social|
 |25 11 23|This Is The Kit|London|Barbican|X|
+|29 11 23|Bas Jan|London|Two Palms|X|
 |30 11 23|Death From Above 1979|London|Garage|X|
 |03 12 23|Girl Ray|London|Village Underground|
 |07 12 23|The Charlatans|London|Troxy|
