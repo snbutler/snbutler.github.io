@@ -19,10 +19,12 @@
 |12 10 23|Honeyblood|London|The Social|
 |17 10 23|Blood Red Shoes|London|The 100 Club|
 |24 10 23|The Bluetones|London|KOKO|
+|26 10 23|English Teacher|London|Scala|
 |28 10 23|Allo Darlin|London|Islington Assembly Hall|X|
 |03 11 23|Personal Trainer|London|Garage||
 |09 11 23|King Creosote|London|EartH|X|
 |10 11 23|Sleater Kinney|London|Roundhouse|
+|13 11 23|Pillow Queens|London|100 Club|
 |15 11 23|Queens of the Stone Age|London|O2|X|
 |17 11 23|Teenage Fanclub + Sweet Baboo|London|EartH|
 |18 11 23|Teenage Fanclub + Sweet Baboo|London|EartH|
