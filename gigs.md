@@ -1,8 +1,8 @@
 # gigs
 |Date|Event|Place|Venue|Ticket|
 |:--:|-----|----|-----|:----:|
-|25 08 23|All Points East|London|Victoria Park|
-|25 08 23|Cable Ties|London|Victoria|
+|25 08 23|All Points East|London|Victoria Park|X|
+|25 08 23|Cable Ties|London|Victoria|X|
 |29 08 23|The Walkmen|London|KOKO|
 |30 08 23|The Walkmen|London|KOKO|
 |31 08 23|The Walkmen|London|KOKO|
