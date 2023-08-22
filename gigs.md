@@ -9,7 +9,7 @@
 |05 09 23|Caitlin Rose|London|Brixton Windmill|X|
 |06 09 23|Bodega|London|Rich Mix|
 |06 09 23|Marika Hackman|London|ICA|X|
-|20 09 23|Margaret Glaspy|London|O'Meara|X|
+|20 09 23|Margaret Glaspy|London|Omeara|X|
 |23 09 23|The National|Leeds|Arena|X|
 |28 09 23|Do Nothing|Leeds|Brudenell|
 |29 09 23|PJ Harvey|London|Roundhouse|
