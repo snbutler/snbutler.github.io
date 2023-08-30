@@ -1,13 +1,7 @@
 # gigs
 |Date|Event|Place|Venue|Ticket|
 |:--:|-----|----|-----|:----:|
-|25 08 23|All Points East|London|Victoria Park|X|
-|25 08 23|Cable Ties|London|Victoria|X|
-|29 08 23|The Walkmen|London|KOKO|
-|30 08 23|The Walkmen|London|KOKO|
-|31 08 23|The Walkmen|London|KOKO|
 |05 09 23|Caitlin Rose|London|Brixton Windmill|X|
-|06 09 23|Bodega|London|Rich Mix|
 |06 09 23|Marika Hackman|London|ICA|X|
 |20 09 23|Margaret Glaspy|London|Omeara|X|
 |23 09 23|The National|Leeds|Arena|X|
@@ -17,11 +11,13 @@
 |10 10 23|Black Country New Road|London|Shepherd's Bush Empire|
 |11 10 23|Black Country New Road|London|Shepherd's Bush Empire|
 |12 10 23|Honeyblood|London|The Social|
+|16 10 23|Arctic Monkeys|Belfast|SSE Arena|X|
 |17 10 23|Blood Red Shoes|London|The 100 Club|
 |24 10 23|The Bluetones|London|KOKO|
 |26 10 23|English Teacher|London|Scala|
 |28 10 23|Allo Darlin|London|Islington Assembly Hall|X|
 |03 11 23|Personal Trainer|London|Garage||
+|03 11 23|The David Tattersall Band|London|Boston Music Room||
 |09 11 23|King Creosote|London|EartH|X|
 |10 11 23|Sleater Kinney|London|Roundhouse|
 |13 11 23|Pillow Queens|London|100 Club|
