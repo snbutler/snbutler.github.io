@@ -8,6 +8,7 @@
 |28 09 23|Do Nothing|Leeds|Brudenell|
 |29 09 23|PJ Harvey|London|Roundhouse|
 |06 10 23|Do Nothing|London|KOKO|
+|09 10 23|Girl Ray|London|MOTH Club|X|
 |10 10 23|Black Country New Road|London|Shepherd's Bush Empire|
 |11 10 23|Black Country New Road|London|Shepherd's Bush Empire|
 |12 10 23|Honeyblood|London|The Social|
