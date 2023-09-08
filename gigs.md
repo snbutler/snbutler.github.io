@@ -1,11 +1,9 @@
 # gigs
 |Date|Event|Place|Venue|Ticket|
 |:--:|-----|----|-----|:----:|
-|05 09 23|Caitlin Rose|London|Brixton Windmill|X|
-|06 09 23|Marika Hackman|London|ICA|X|
 |20 09 23|Margaret Glaspy|London|Omeara|X|
 |23 09 23|The National|Leeds|Arena|X|
-|28 09 23|Do Nothing|Leeds|Brudenell|
+|27 09 23|Bill Ryder-Jones|London|Lexington|X|
 |29 09 23|PJ Harvey|London|Roundhouse|
 |06 10 23|Do Nothing|London|KOKO|
 |09 10 23|Girl Ray|London|MOTH Club|X|
