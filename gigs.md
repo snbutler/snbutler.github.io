@@ -30,3 +30,5 @@
 |03 12 23|Girl Ray|London|Village Underground|
 |07 12 23|The Charlatans|London|Troxy|
 |15 12 23|Suede|London|Brixton Electric|
+|24 02 24|New Dad|Leeds|Belgrave|
+|05 03 24|New Dad|London|KOKO|
