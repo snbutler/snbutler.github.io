@@ -1,15 +1,7 @@
 # gigs
 |Date|Event|Place|Venue|Ticket|
 |:--:|-----|----|-----|:----:|
-|20 09 23|Margaret Glaspy|London|Omeara|X|
-|23 09 23|The National|Leeds|Arena|X|
-|27 09 23|Bill Ryder-Jones|London|Lexington|X|
-|29 09 23|PJ Harvey|London|Roundhouse|
-|06 10 23|Do Nothing|London|KOKO|
-|09 10 23|Girl Ray|London|MOTH Club|X|
-|10 10 23|Black Country New Road|London|Shepherd's Bush Empire|
-|11 10 23|Black Country New Road|London|Shepherd's Bush Empire|
-|12 10 23|Honeyblood|London|The Social|
+|12 10 23|Honeyblood|London|The Social|X|
 |16 10 23|Arctic Monkeys|Belfast|SSE Arena|X|
 |17 10 23|Blood Red Shoes|London|The 100 Club|
 |24 10 23|The Bluetones|London|KOKO|
@@ -30,5 +22,10 @@
 |03 12 23|Girl Ray|London|Village Underground|
 |07 12 23|The Charlatans|London|Troxy|
 |15 12 23|Suede|London|Brixton Electric|
+|28 01 24|Gruff Rhys|Leeds|Brudenell|X|
 |24 02 24|New Dad|Leeds|Belgrave|
 |05 03 24|New Dad|London|KOKO|
+|15 03 24|Marika Hackman|Leeds|Wardrobe|
+|21 03 24|Marika Hackman|London|Hackney Church|
+|08 04 24|Marika Hackman|Brussels|Botanique|
+|07 06 24|Bess Atwell|London|Union Chapel|
