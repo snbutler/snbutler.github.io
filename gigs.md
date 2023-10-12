@@ -4,6 +4,7 @@
 |12 10 23|Honeyblood|London|The Social|X|
 |16 10 23|Arctic Monkeys|Belfast|SSE Arena|X|
 |17 10 23|Blood Red Shoes|London|The 100 Club|
+|23 10 23|Lande Hekt|London|Lexington|
 |24 10 23|The Bluetones|London|KOKO|
 |26 10 23|English Teacher|London|Scala|
 |28 10 23|Allo Darlin|London|Islington Assembly Hall|X|
@@ -25,7 +26,8 @@
 |28 01 24|Gruff Rhys|Leeds|Brudenell|X|
 |24 02 24|New Dad|Leeds|Belgrave|
 |05 03 24|New Dad|London|KOKO|
-|15 03 24|Marika Hackman|Leeds|Wardrobe|
+|15 03 24|Marika Hackman|Leeds|Wardrobe|X|
+|20 03 24|Bill Ryder-Jones|London|Islington Assembly Hall|
 |21 03 24|Marika Hackman|London|Hackney Church|
 |08 04 24|Marika Hackman|Brussels|Botanique|
 |07 06 24|Bess Atwell|London|Union Chapel|
