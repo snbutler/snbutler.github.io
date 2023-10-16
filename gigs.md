@@ -1,11 +1,10 @@
 # gigs
 |Date|Event|Place|Venue|Ticket|
 |:--:|-----|----|-----|:----:|
-|12 10 23|Honeyblood|London|The Social|X|
 |16 10 23|Arctic Monkeys|Belfast|SSE Arena|X|
 |17 10 23|Blood Red Shoes|London|The 100 Club|
 |23 10 23|Lande Hekt|London|Lexington|
-|24 10 23|The Bluetones|London|KOKO|
+|24 10 23|The Bluetones|London|KOKO|X|
 |26 10 23|English Teacher|London|Scala|
 |28 10 23|Allo Darlin|London|Islington Assembly Hall|X|
 |03 11 23|Personal Trainer|London|Garage||
