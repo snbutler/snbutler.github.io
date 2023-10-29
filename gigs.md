@@ -7,8 +7,6 @@
 |10 11 23|Sleater Kinney|London|Roundhouse|
 |13 11 23|Pillow Queens|London|100 Club|
 |15 11 23|Queens of the Stone Age|London|O2|X|
-|17 11 23|Teenage Fanclub + Sweet Baboo|London|EartH|
-|18 11 23|Teenage Fanclub + Sweet Baboo|London|EartH|
 |22 11 23|Divorce|London|The Social|
 |25 11 23|This Is The Kit|London|Barbican|X|
 |29 11 23|Bas Jan|London|Two Palms|X|
