@@ -1,7 +1,6 @@
 # gigs
 |Date|Event|Place|Venue|Ticket|
 |:--:|-----|----|-----|:----:|
-|09 11 23|King Creosote|London|EartH|X|
 |10 11 23|Sleater Kinney|London|Roundhouse|
 |13 11 23|Pillow Queens|London|100 Club|
 |15 11 23|Queens of the Stone Age|London|O2|X|
@@ -16,7 +15,7 @@
 |28 01 24|Gruff Rhys|Leeds|Brudenell|X|
 |03 02 24|This Is The Kit|Bristol|Beacon||
 |04 02 24|Margaret Glaspy|Bristol|Dareshack|X|
-|09 02 24|Courtin|London|Dingwalls|
+|09 02 24|Courting|London|Dingwalls|X|
 |24 02 24|New Dad|Leeds|Belgrave|
 |05 03 24|New Dad|London|KOKO|
 |15 03 24|Marika Hackman|Leeds|Wardrobe|X|
