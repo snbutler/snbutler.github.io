@@ -1,7 +1,6 @@
 # gigs
 |Date|Event|Place|Venue|Ticket|
 |:--:|-----|----|-----|:----:|
-|15 11 23|Queens of the Stone Age|London|O2|X|
 |22 11 23|Divorce|London|The Social|
 |25 11 23|This Is The Kit|London|Barbican|X|
 |29 11 23|Bas Jan|London|Two Palms|X|
@@ -18,12 +17,12 @@
 |24 02 24|New Dad|Leeds|Belgrave|
 |05 03 24|New Dad|London|KOKO|
 |15 03 24|Marika Hackman|Leeds|Wardrobe|X|
-|19 03 24|The Smile|Manchester|Apollo|
 |20 03 24|Bill Ryder-Jones|London|Islington Assembly Hall|
 |21 03 24|Marika Hackman|London|Hackney Church|
-|23 03 24|The Smile|London|Alexandra Palace|
+|23 03 24|The Smile|London|Alexandra Palace|X|
 |08 04 24|Marika Hackman|Brussels|Botanique|
 |04 05 24|Camera Obscura|Leeds|Stylus|
 |07 05 24|Camera Obscura|London|KOKO|
-|29 05 24|English Teacher|London|Brixton Electric|
+|29 05 24|English Teacher|London|Brixton Electric|X|
 |07 06 24|Bess Atwell|London|Union Chapel|X|
+|14 06 24|Chastity Belt|London|Village Underground|X|
