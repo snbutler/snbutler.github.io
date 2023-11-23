@@ -1,7 +1,6 @@
 # gigs
 |Date|Event|Place|Venue|Ticket|
 |:--:|-----|----|-----|:----:|
-|22 11 23|Divorce|London|The Social|
 |25 11 23|This Is The Kit|London|Barbican|X|
 |29 11 23|Bas Jan|London|Two Palms|X|
 |30 11 23|Death From Above 1979|London|Garage|X|
@@ -9,6 +8,7 @@
 |05 12 23|Coach Party|London|Omeara|X|
 |07 12 23|The Charlatans|London|Troxy|
 |15 12 23|Suede|London|Brixton Electric|
+|12 01 24|The Research|London|Lexington|X|
 |13 01 24|Marika Hackman|London|Rough Trade East|X|
 |28 01 24|Gruff Rhys|Leeds|Brudenell|X|
 |03 02 24|This Is The Kit|Bristol|Beacon||
