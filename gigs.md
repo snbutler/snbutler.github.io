@@ -1,10 +1,7 @@
 # gigs
 |Date|Event|Place|Venue|Ticket|
 |:--:|-----|----|-----|:----:|
-|25 11 23|This Is The Kit|London|Barbican|X|
-|29 11 23|Bas Jan|London|Two Palms|X|
-|30 11 23|Death From Above 1979|London|Garage|X|
-|03 12 23|Girl Ray|London|Village Underground|
+|03 12 23|Girl Ray|London|Village Underground|X|
 |05 12 23|Coach Party|London|Omeara|X|
 |07 12 23|The Charlatans|London|Troxy|
 |15 12 23|Suede|London|Brixton Electric|
