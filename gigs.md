@@ -1,12 +1,10 @@
 # gigs
 |Date|Event|Place|Venue|Ticket|
 |:--:|-----|----|-----|:----:|
-|15 12 23|Suede|London|Brixton Electric|
 |12 01 24|The Research|London|Lexington|X|
 |13 01 24|Marika Hackman|London|Rough Trade East|X|
 |28 01 24|Gruff Rhys|Leeds|Brudenell|X|
-|03 02 24|This Is The Kit|Bristol|Beacon||
-|04 02 24|Margaret Glaspy|Bristol|Dareshack|X|
+|03 02 24|Margaret Glaspy|London|Lafayette|X|
 |09 02 24|Courting|London|Dingwalls|X|
 |13 02 24|Rachael Lavelle|London|Waiting Room|X|
 |24 02 24|New Dad|Leeds|Belgrave|
