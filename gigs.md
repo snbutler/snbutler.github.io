@@ -1,6 +1,7 @@
 # gigs
 |Date|Event|Place|Venue|Ticket|
 |:--:|-----|----|-----|:----:|
+|12 01 24|Sprints|London|Shacklewell Arms|X|
 |12 01 24|The Research|London|Lexington|X|
 |13 01 24|Marika Hackman|London|Rough Trade East|X|
 |28 01 24|Gruff Rhys|Leeds|Brudenell|X|
