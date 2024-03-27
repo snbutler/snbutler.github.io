@@ -1,8 +1,6 @@
 # gigs
 |Date|Event|Place|Venue|Ticket|
 |:--:|-----|----|-----|:----:|
-|21 03 24|Marika Hackman|London|Hackney Church|X|
-|23 03 24|The Smile|London|Alexandra Palace|X|
 |13 04 24|Dry Cleaning|Leeds|Brudenell|X|
 |14 04 24|Sprints|Leeds|Brudenell|
 |24 04 24|Melanie Baker|London|Shacklewell Arms|X|
@@ -13,8 +11,10 @@
 |19 05 24|Caitlin Rose|London|MOTH Club|X|
 |29 05 24|English Teacher|London|Brixton Electric|X|
 |30 05 24|Mammoth Penguins|London|The Grace|X|
+|31 05 24|Echobelly|London|Lafayette|
 |07 06 24|Bess Atwell|London|Union Chapel|X|
 |12 06 24|Bikini Kill|London|Roundhouse|
 |14 06 24|Chastity Belt|London|Village Underground|X|
 |07 07 24|Bloc Party|London|Crystal Palace Park|
 |15 07 24|Death From Above 1979|London|Kentish Town Forum|X|
+|18 10 24|Maximo Park|London|Islington Assembly Hall|X|
