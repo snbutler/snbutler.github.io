@@ -1,8 +1,6 @@
 # gigs
 |Date|Event|Place|Venue|Ticket|
 |:--:|-----|----|-----|:----:|
-|13 04 24|Dry Cleaning|Leeds|Brudenell|X|
-|14 04 24|Sprints|Leeds|Brudenell|
 |24 04 24|Melanie Baker|London|Shacklewell Arms|X|
 |02 05 24|Nadine Shah|London|Heaven|X|
 |04 05 24|Camera Obscura|Leeds|Stylus|X|
@@ -14,7 +12,8 @@
 |31 05 24|Echobelly|London|Lafayette|
 |07 06 24|Bess Atwell|London|Union Chapel|X|
 |12 06 24|Bikini Kill|London|Roundhouse|
-|14 06 24|Chastity Belt|London|Village Underground|X|
+|08 06 24|Chastity Belt|Brighton|Hope & Ruin|X|
 |07 07 24|Bloc Party|London|Crystal Palace Park|
 |15 07 24|Death From Above 1979|London|Kentish Town Forum|X|
 |18 10 24|Maximo Park|London|Islington Assembly Hall|X|
+|18 10 24|King Creosote|Leeds|Brudenell Social Club|X|
