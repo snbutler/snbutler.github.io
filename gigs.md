@@ -18,6 +18,7 @@
 |15 07 24|Death From Above 1979|London|Kentish Town Forum|X|
 |19 07 24|Death From Above 1979|Leeds|Academy|
 |04 09 24|Margaret Glaspy|London|St. Pancras Old Church|X|
+|06 09 24|Martha|London|The Garage|X|
 |18 10 24|Maximo Park|London|Islington Assembly Hall|X|
 |26 10 24|Art Brut|London|Electric Brixton|X|
 |24 11 24|King Creosote|Leeds|Brudenell Social Club|X|
