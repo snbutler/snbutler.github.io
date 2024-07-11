@@ -1,13 +1,12 @@
 # gigs
 |Date|Event|Place|Venue|Ticket|
 |:--:|-----|----|-----|:----:|
-|02 07 24|Our Girl|London|Omeara|X|
-|07 07 24|Bloc Party|London|Crystal Palace Park|
 |15 07 24|Death From Above 1979|London|Kentish Town Forum|X|
 |19 07 24|Death From Above 1979|Leeds|Academy|
 |30 07 24|Van Houten|London|Shacklewell Arms|X|
 |01 08 24|Personal Trainer|London|Shacklewell Arms|X|
 |10 08 24|Girl Ray|London|Design District|X|
+|14 08 24|Girl Ray|London|Shacklewell Arms|X|
 |04 09 24|Margaret Glaspy|London|St. Pancras Old Church|X|
 |06 09 24|Martha|London|The Garage|X|
 |09 09 24|Julia Jacklin|London|Lyric Theatre|X|
