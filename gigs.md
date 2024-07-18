@@ -1,7 +1,6 @@
 # gigs
 |Date|Event|Place|Venue|Ticket|
 |:--:|-----|----|-----|:----:|
-|15 07 24|Death From Above 1979|London|Kentish Town Forum|X|
 |19 07 24|Death From Above 1979|Leeds|Academy|
 |30 07 24|Van Houten|London|Shacklewell Arms|X|
 |01 08 24|Personal Trainer|London|Shacklewell Arms|X|
