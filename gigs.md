@@ -15,6 +15,7 @@
 |24 11 24|King Creosote|Leeds|Brudenell Social Club|X|
 |29 11 24|Idles|London|Alexandra Palace|
 |30 11 24|Fontaines D.C.|Manchester|Aviva Studios|X|
+|30 01 25|Young Kives|London|Underworld|X|
 |04 02 25|Du Blonde|Brighton|Dust|X|
 |06 02 25|Our Girl|London|Village Underground|X|
 |01 03 25|The Futureheads|Leeds|Stylus|X|
