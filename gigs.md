@@ -19,5 +19,6 @@
 |04 02 25|Du Blonde|Brighton|Dust|X|
 |05 02 25|Katy J Pearson|London|Koko|
 |06 02 25|Our Girl|London|Village Underground|X|
+|15 02 25|Los Campesinos|London|Troxy|X|
 |01 03 25|The Futureheads|Leeds|Stylus|X|
 |13 05 25|Supergrass|London|Roundhouse|X|
