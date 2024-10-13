@@ -1,8 +1,7 @@
 # gigs
 |Date|Event|Place|Venue|Ticket|
 |:--:|-----|----|-----|:----:|
-|18 10 24|Maximo Park|London|Islington Assembly Hall|X|
-|24 10 24|Bodega|London|EartH|
+|24 10 24|Bodega|London|EartH|X|
 |26 10 24|Art Brut|London|Electric Brixton|X|
 |29 10 24|The Waeve|London|Village Underground|X|
 |30 10 24|Evan Dando|London|Islington Assembly Hall|X|
