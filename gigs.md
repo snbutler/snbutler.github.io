@@ -1,12 +1,6 @@
 # gigs
 |Date|Event|Place|Venue|Ticket|
 |:--:|-----|----|-----|:----:|
-|24 10 24|Bodega|London|EartH|X|
-|26 10 24|Art Brut|London|Electric Brixton|X|
-|29 10 24|The Waeve|London|Village Underground|X|
-|30 10 24|Evan Dando|London|Islington Assembly Hall|X|
-|01 11 24|The Cure|London|Troxy|X|
-|02 11 24|Laura Marling|London|Hackney Church|X|
 |06 11 24|Naima Bock|London|St. Pancras Old Church|X|
 |08 11 24|Interpol|London|Alexandra Palace|
 |13 11 24|English Teacher|London|Koko|X|
@@ -23,4 +17,5 @@
 |15 02 25|Anna B Savage|Leeds|Brudenell|X|
 |20 02 25|Anna B Savage|London|Union Chapel|X|
 |01 03 25|The Futureheads|Leeds|Stylus|X|
+|26 03 25|Rachael Lavelle|London|St Pancras Old Church|X|
 |13 05 25|Supergrass|London|Roundhouse|X|
