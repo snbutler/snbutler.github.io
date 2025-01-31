@@ -5,7 +5,7 @@
 |29 01 25|Do Nothing|Leeds|Oporto|X|
 |30 01 25|Young Knives|London|Underworld|X|
 |04 02 25|Du Blonde|Brighton|Dust|X|
-|05 02 25|Katy J Pearson|London|Koko|
+|05 02 25|Katy J Pearson|London|Koko|X|
 |06 02 25|Our Girl|London|Dome|X|
 |15 02 25|Los Campesinos|London|Troxy|X|
 |15 02 25|Anna B Savage|Leeds|Brudenell|X|
