@@ -10,6 +10,7 @@
 |15 02 25|Los Campesinos|London|Troxy|X|
 |15 02 25|Anna B Savage|Leeds|Brudenell|X|
 |20 02 25|Anna B Savage|London|Union Chapel|X|
+|22 02 25|Mogwai|Leeds|Academy|X|
 |01 03 25|The Futureheads|Leeds|Stylus|X|
 |02 03 25|Doves|Sheffield|Leadmill|X|
 |15 03 25|The Smyths|Putney|Half Moon|X|
